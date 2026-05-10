@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.byprogger.Lab2
+Exec=/usr/bin/com.byprogger.Lab2
+Name=Lab2
+Name[ru]=Лаб2
+
+[X-Application]
+Permissions=
+OrganizationName=com.byprogger
+ApplicationName=Lab2
+ExecDBus=/usr/bin/com.byprogger.Lab2
