@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 16.0.0, 2026-05-10T05:03:32. -->
+<!-- Written by QtCreator 16.0.0, 2026-05-10T05:34:03. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -259,7 +259,7 @@
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QmakeProjectManager.MerPrepareTargetStep</value>
      </valuemap>
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
-      <value type="QString" key="MerProcessStep.Arguments">--sdk --silent</value>
+      <value type="QString" key="MerProcessStep.Arguments">--sdk --silent --keepUserData </value>
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QmakeProjectManager.MerRpmDeployStep</value>
      </valuemap>

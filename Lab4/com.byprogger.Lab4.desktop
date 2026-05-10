@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.byprogger.Lab4
+Exec=/usr/bin/com.byprogger.Lab4
+Name=Lab4
+Name[ru]=Лаб4
+
+[X-Application]
+Permissions=Audio;UserDirs
+OrganizationName=com.byprogger
+ApplicationName=Lab4
+ExecDBus=/usr/bin/com.byprogger.Lab4
